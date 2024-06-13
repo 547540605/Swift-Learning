@@ -9,7 +9,7 @@ noArgumentsAndNoReturnValue()
 func plusTwo(value: Int){
     let newValue = value + 2
 }
-
+ 
 plusTwo(value: 20)
 
 func newPlusTwo(value: Int) -> Int{
